@@ -47,7 +47,7 @@ go get -u github.com/gorilla/mux
 go run main.go
 ```
 
-The API will start running at `http://localhost:8000`.
+The API will start running at `http://localhost:8091`.
 
 ## API Endpoints
 
